@@ -1,2 +1,2 @@
 # OnePageAuth
-OnePageAuth is a simple library built with the TALL stack, making it easy to create and customize login, register, and password reset pages. Perfect for user-friendly, attractive authentication flows.
+OnePageAuth, is a lightweight wrapper around the Jetstream inertia application, designed to enhance the user experience by restructuring files with a page-based architecture and improving user interfaces.
